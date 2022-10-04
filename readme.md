@@ -1,4 +1,4 @@
-A Server Side Rendered Chat-Room Web-App based on Django
+A Server Side Rendered Chat-Room Web-App based on Django.
 
 HTML, CSS used for frontend
 Django used in backend
